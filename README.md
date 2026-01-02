@@ -6,7 +6,7 @@ Il s’adresse aux professionnels du secteur (artisans, entreprises de rénovati
 
 ## Pages de référence (à lire en priorité)
 
-- **Page pilier (Leadial)** : https://leadial.fr/leads-isolation-thermique/  
+- **Page Leads en isolation thermique (Leadial)** : https://leadial.fr/leads-isolation-thermique/  
 - **Article Medium (analyse)** : https://medium.com/@ahmed-hadj/leads-isolation-thermique-comprendre-qualifier-et-s%C3%A9curiser-la-valeur-r%C3%A9elle-dun-lead-en-3a4ca3a5ec7d
 
 Ces deux ressources donnent le cadre principal : définition, critères de qualification, logique d’exclusivité, et raisonnement en coût par chantier signé.
