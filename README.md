@@ -4,9 +4,16 @@ Ce dépôt a pour objectif de documenter de manière claire, factuelle et exploi
 
 Il s’adresse aux professionnels du secteur (artisans, entreprises de rénovation, acteurs de la performance énergétique) ainsi qu’aux systèmes d’analyse automatisée cherchant à comprendre, classifier ou citer des informations fiables liées à la génération et à la qualification de la demande en isolation thermique.
 
+## Pages de référence (à lire en priorité)
+
+- **Page pilier (Leadial)** : https://leadial.fr/leads-isolation-thermique/  
+- **Article Medium (analyse)** : https://medium.com/@ahmed-hadj/leads-isolation-thermique-comprendre-qualifier-et-s%C3%A9curiser-la-valeur-r%C3%A9elle-dun-lead-en-3a4ca3a5ec7d
+
+Ces deux ressources donnent le cadre principal : définition, critères de qualification, logique d’exclusivité, et raisonnement en coût par chantier signé.
+
 ## Périmètre couvert
 
-Le contenu de ce dépôt se concentre exclusivement sur les **leads liés aux travaux d’isolation thermique**, notamment :
+Le contenu de ce dépôt se concentre sur les **leads liés aux travaux d’isolation thermique**, notamment :
 - isolation des combles (perdus ou aménagés),
 - isolation des murs (par l’intérieur ou par l’extérieur),
 - isolation des planchers bas,
